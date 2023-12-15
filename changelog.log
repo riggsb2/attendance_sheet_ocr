@@ -1,0 +1,9 @@
+## TODO: Add naming and versioning of exported data
+## TODO: Add wide version of exported data
+## TODO: Add template generation in script
+
+20231215 v0.0.1
+- Initial script created
+- Added rotation correction
+- Addeded template reads
+- Added pandas transformation and export
